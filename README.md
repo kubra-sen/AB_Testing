@@ -7,8 +7,8 @@ Test group data gives the results after the new feature
 
 
 # DATASET
-Impression – Number of views of the advertisement
-Click – Number of clicks for the advertisement
-Purchase – Number of products purchased after viewing the advertisement
-Tıklanan reklamlar sonrası satın alınan ürün sayısını belirtir.
-Earning – The amount of earning gained after the purchase of the products
+Impression – Number of views of the advertisement \
+Click – Number of clicks for the advertisement \
+Purchase – Number of products purchased after viewing the advertisement\
+Tıklanan reklamlar sonrası satın alınan ürün sayısını belirtir\
+Earning – The amount of earning gained after the purchase of the products\
